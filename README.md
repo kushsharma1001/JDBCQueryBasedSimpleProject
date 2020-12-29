@@ -1,4 +1,4 @@
-# Simple Springboot App with Swagger, Profiles, JDBC using H2 database, Imuutability 
+# Simple Springboot App with Swagger, Profiles, JDBC using H2 database, Imutability 
 
 proper info on Hikari connection properties
 https://github.com/brettwooldridge/HikariCP
